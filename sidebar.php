@@ -1,16 +1,11 @@
 <?php
 /**
- * The sidebar containing the main widget area.
- *
+ * Default Sidebar for Blog
+ * @package etalon
+ * by KeyDesign
  */
-
-if ( ! is_active_sidebar( 'sidebar-1' ) ) {
-	return;
-}
 ?>
 
-<div id="secondary" class="widget-area" role="complementary">
-	<?php if (is_active_sidebar( 'sidebar-1' )) {
-        dynamic_sidebar( 'sidebar-1' ); 
-    } ?>
-</div><!-- #secondary -->
+<?php if( is_active_sidebar('blog-sidebar') ) : ?>
+            <?php dynamic_sidebar('blog-sidebar'); ?>
+<?php endif; ?>
