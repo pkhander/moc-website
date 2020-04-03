@@ -40,7 +40,7 @@ post_date: 2020-02-27 14:43:44
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":616,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://stagemoc.com/wp-content/uploads/2020/02/placeholder-1.png" alt="" class="wp-image-616"/></figure>
+<figure class="wp-block-image size-large"><a href="https://stagemoc.com/d3n/"><img src="http://stagemoc.com/wp-content/uploads/2020/02/placeholder-1.png" alt="" class="wp-image-616"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"align":"center","level":3,"textColor":"vivid-cyan-blue"} -->
@@ -48,7 +48,7 @@ post_date: 2020-02-27 14:43:44
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">A multi-layer cache for improving big-data applications performance in data centers with imbalanced networks <a href="https://massopen.cloud/d3n/">Learn Mor</a><a href="https://stagemoc.com/d3n/">e</a><a href="https://massopen.cloud/d3n/">…</a></p>
+<p class="has-medium-font-size">A multi-layer cache for improving big-data applications performance in data centers with imbalanced networks <a href="https://stagemoc.com/d3n/">Learn More</a><a href="https://massopen.cloud/d3n/">…</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div></div>

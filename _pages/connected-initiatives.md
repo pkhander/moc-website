@@ -30,7 +30,7 @@ post_date: 2020-02-27 19:48:22
 <!-- /wp:image -->
 
 <!-- wp:html -->
-<br><br>
+<br>
 <!-- /wp:html -->
 
 <!-- wp:heading {"align":"center","level":3} -->
@@ -47,8 +47,8 @@ post_date: 2020-02-27 19:48:22
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":618} -->
-<figure class="wp-block-image"><img src="http://stagemoc.com/wp-content/uploads/2020/02/placeholder-2.png" alt="" class="wp-image-618"/></figure>
+<div class="wp-block-column"><!-- wp:image {"id":2335,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://stagemoc.com/wp-content/uploads/2020/04/OCT-logo.png" alt="" class="wp-image-2335"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"align":"center","level":3} -->
@@ -128,11 +128,11 @@ post_date: 2020-02-27 19:48:22
 <!-- /wp:image -->
 
 <!-- wp:heading {"align":"left","level":3} -->
-<h3 class="has-text-align-left">Northeast Storage Exchange (NESE)</h3>
+<h3 class="has-text-align-left">CLoud Lab</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">NEED INFO <a href="http://nese.mghpcc.org/about/">Learn more</a></p>
+<p class="has-medium-font-size">NEED INFO</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div></div>
@@ -174,11 +174,11 @@ post_date: 2020-02-27 19:48:22
 <!-- /wp:image -->
 
 <!-- wp:heading {"align":"center","level":3} -->
-<h3 class="has-text-align-center">Want to contribute to our projects</h3>
+<h3 class="has-text-align-center">Northeast Storage Exchange (NESE)</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">MOC is always looking for contributor. Click on the link below to see how you can contribute or have your research featured <a rel="noreferrer noopener" href="https://stagemoc.com/wp-admin/post.php?post=725&amp;action=edit#" target="_blank">Lear</a><a rel="noreferrer noopener" aria-label="… (opens in a new tab)" href="#" target="_blank">n More</a></p>
+<p class="has-medium-font-size">NEED INFO <a href="http://nese.mghpcc.org/about/">Learn more</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div></div>
