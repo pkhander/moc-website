@@ -123,3 +123,10 @@ Here you'll have to go to themes directory of wordpress and clone this github re
         
 Follow the steps to create a site. You now have a locally running wordpress. 
 Choose the theme MOC-pipeline and now you are successfully running the latest MOC-WEBSITE 
+
+### Step # 8 Import the pages and post of current MOC website
+
+Follow the step here https://github.com/mAAdhaTTah/wordpress-github-sync to install and activate the github-sync plugin. 
+After the plugin is installed go to your wordpress website -> Settings -> Github-sync -> import and import the _posts and _pages file.
+
+Now you should have the latest MOC website on your local. 
